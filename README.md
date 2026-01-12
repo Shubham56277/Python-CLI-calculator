@@ -1,4 +1,4 @@
-# Python-CLI-Calculator
+# Python-CLI-Calculator By Shubham Mankar
 
 A simple menu-driven Python Command Line Interface (CLI) calculator for performing basic arithmetic operations.
 
