@@ -16,3 +16,4 @@ A simple menu-driven Python Command Line Interface (CLI) calculator for performi
 3. Run the program using the command:
 
 run python calculator.py
+YOLO badge test
